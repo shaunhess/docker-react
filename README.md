@@ -7,7 +7,7 @@
 ```
 docker-compose up
 docker-compose ps
-docker exec -it atadatem_frontend_1 npm run test
+docker exec -it docker-react_frontend-tests_1 npm run test
 ```
 
 ### Build Frontend Docker Container for production
